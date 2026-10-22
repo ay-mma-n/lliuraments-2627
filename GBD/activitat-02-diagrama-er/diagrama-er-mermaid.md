@@ -44,7 +44,7 @@ erDiagram
         int Agilitat
         string Carisma
     }
-    Habilitat }o--o{ Habilitat : combina_amb
+    Habilitat }o--o{ Habilitat : combina__amb
     Personatge }o--o{ Habilitat : poseeix
     Personatge }o--o{ Item : equipa
     Personatge ||--|| Mascota : acompanya
