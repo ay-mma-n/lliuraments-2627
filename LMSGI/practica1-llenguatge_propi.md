@@ -92,7 +92,7 @@ Según el enunciado, para clasificar nuestra creación como lenguaje de marcas d
 
 ### Idea básica
 
-```xml
+```
 <equipo>Real Madrid</equipo>
 ```
 
